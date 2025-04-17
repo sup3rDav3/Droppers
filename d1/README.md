@@ -2,7 +2,7 @@
 Coursework from Sektor7's final project  
 https://institute.sektor7.net/view/courses/red-team-operator-malware-development-essentials
 
-The final dropper does the following:
+This dropper does the following:
 + Shellcode = message box (via notepad.exe)
 + Extracts shellcode from .rsrc
 + Decrypts shellcode (XOR)
