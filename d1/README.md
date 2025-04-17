@@ -7,7 +7,7 @@ This dropper does the following:
 + Extracts shellcode from .rsrc
 + Decrypts shellcode (XOR)
 + Injects shellcode into notepad.exe
-+ Make it a GUI instead of console app (eliminate pop-up)
++ Make it a GUI instead of console app (eliminate brief pop-up)
 
 1. Encrypt payload with:  
 python.exe xorencrypt.py msgbox64.bin (this creates favicon.ico = XOR encrypted payload)
