@@ -1,5 +1,6 @@
 # Dropper
 Coursework from Sektor7's final project
+https://institute.sektor7.net/view/courses/red-team-operator-malware-development-essentials
 
 The final dropper will do the following:
 + shellcode = message box (via notepad.exe)
