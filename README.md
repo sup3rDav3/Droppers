@@ -8,3 +8,8 @@ The final dropper does the following:
 + Decrypts shellcode (XOR)
 + Injects shellcode into notepad.exe
 + Make it a GUI instead of console app (eliminate pop-up)
+
+1. Encrypt payload with:  
+python.exe xorencrypt.py msgbox64.bin (this creates favicon.ico = XOR encrypted payload)
+2. Run compile.bat
+3. Run implant.exe
