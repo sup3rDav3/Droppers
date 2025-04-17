@@ -1,4 +1,4 @@
-# Droppers
+# Dropper
 Coursework from Sektor7's final project
 
 The final dropper will do the following:
