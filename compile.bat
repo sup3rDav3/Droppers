@@ -1,3 +1,5 @@
+REM  Use the native tools command prompt for VS 2019
+
 @ECHO OFF
 
 rc resources.rc
